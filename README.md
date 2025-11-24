@@ -19,5 +19,4 @@ A simple RESTful API for managing blog posts. This API supports full CRUD operat
 
 ## Postman Documentation
 
-You can download and import the Postman collection:
 [View Documentation](https://documenter.getpostman.com/view/15789281/2sB3dHXDbZ)
