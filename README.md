@@ -16,3 +16,10 @@ A simple RESTful API for managing blog posts. This API supports full CRUD operat
 - Express.js
 - JavaScript (ES6)
 - Nodemon (for development)
+
+## Postman Documentation
+
+You can download and import the Postman collection:
+
+[Download Postman Collection](./postman/my-blog-api.postman_collection.json)
+
